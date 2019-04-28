@@ -176,6 +176,7 @@ Supported by / 支持者:
 * Jeremy Gross, Sales Engineer, InterSystems
 * Jessica Paoli, Web designer, GitHub
 * Jeff Liang, Software Development Engineer, Amazon Web Services
+* Jeff Chen(陈长风), Software Engineer, LongShine
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacheng Liu, Computer Science Student, Harbin Institute of Technology (Weihai)
